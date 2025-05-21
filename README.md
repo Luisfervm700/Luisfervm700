@@ -6,14 +6,14 @@
 
 ## 🧠 About me
 
-I am a Software Engineer passionate about building efficient and user-focused solutions. I have a background in full-stack development, currently focused on backend technologies like Java and Spring Boot, and exploring modern frontend frameworks.
+I'm studying software engineering and am passionate about creating efficient, user-centered solutions. I graduated with a degree in software analysis and development about a year ago. I currently have experience in technologies such as Java, JavaScript, Spring Boot, and exploring modern front-end frameworks.
 
-I enjoy solving real-world problems through clean, maintainable code and scalable architectures. I'm also an advocate of continuous learning, team collaboration, and sharing knowledge with the community.
+I enjoy solving real-world problems using clean, maintainable code and scalable architectures. I like building innovative projects to improve my skills as a developer.
 
-- 🌱 Currently learning: `Java`, `Spring`, `Docker`
-- 👯 Open to collaborate on open-source or innovative projects
-- 💬 Ask me about backend systems, APIs, databases, and RESTful design
-- 🎨 Outside tech: I love sketching, listening to music, and exploring nature
+- 🌱 I'm currently learning: Java, Spring, and Docker
+- 👯 I'm open to collaborating on open source or innovative projects
+- 💬 Ask me about backend systems, APIs, databases, and design
+- 🎨 Outside of technology: I love playing video games, listening to music, exploring nature, and going out for sports
 
 ---
 
@@ -21,10 +21,7 @@ I enjoy solving real-world problems through clean, maintainable code and scalabl
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
