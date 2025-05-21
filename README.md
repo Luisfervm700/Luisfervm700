@@ -1,6 +1,6 @@
 # 👨‍💻 Luis Fernando | Software Engineer
 
-![Profile Banner](https://raw.githubusercontent.com/Luisfervm700/Luisfervm700/main/banner.png) <!-- Puedes subir una imagen de cabecera y enlazarla aquí -->
+![Profile Banner]() <!-- Puedes subir una imagen de cabecera y enlazarla aquí -->
 
 ---
 
